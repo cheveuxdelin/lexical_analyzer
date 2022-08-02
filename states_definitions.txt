@@ -1,0 +1,21 @@
+q-1,error,error
+q0,initial state,
+q1,identifier,identifier
+q2,int,number
+q3,float,number
+q3a,aux exp,
+q3b,aux neg exp,
+q3c,float,number
+q4,equal,operator
+q5,plus,operator
+q6,minus,operator
+q7,multiplication,operator
+q8,divide,operator
+q9,power,operator
+q10,opening parenthesis,special
+q11,closing parenthesis,special
+q12,comment,comment
+q13,symbol,symbol
+q14a,aux logic,
+q14,logic,logic
+q15,reserved,reserved
