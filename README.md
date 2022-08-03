@@ -4,7 +4,7 @@
 
 ## What is this?
 
-This is a lexical analyzer made with C++ for [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) programming language, **multithreaded-optimized**!🧞♀️
+This is a lexical analyzer made with C++ for [Scheme](https://en.wikipedia.org/wiki/Scheme_(programming_language)) programming language, **multithreaded-optimized**!
 
 ## But how does it work tho
 
